@@ -1,1 +1,0 @@
-Lege hier deine eigenen MP3-, OGG- oder WAV-Dateien ab. Die App kann Musik auch direkt über den Button "Dateien laden" lokal speichern.
